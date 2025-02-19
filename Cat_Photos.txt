@@ -1,4 +1,2 @@
 The html Framework for "Cat_Photos" is still needed to add more features.
 * to submit the url link to the website
-To be more specific, I need to learn how to send the collected data to the website
-* How to host a html file on a website
